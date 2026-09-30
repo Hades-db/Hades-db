@@ -9,18 +9,15 @@ I build visual interfaces, write functional code, set up n8n automations, and de
 
 ### 🚀 Business & Product
 * **Learning & Applying:** Product Analytics, CustDev, MVP Launch, No-Code Idea Validation
-* **Tools:** Obsidian, Yandex Metrika, etc.
 
 ### 🎨 Design & UX/UI
 * **In Progress:** Building Responsive Design Systems, UX Research, MVP Prototyping
-* **Tools:** Figma, Adobe CC, etc.
 
 ### 🔌 Automation (n8n)
 * **Learning & Applying:** API Integration, Workflow Automation, AI Agents
 
 ### 💻 Development
-* **In Progress:** Frontend Development, Application Logic, Database Management
-* **Technologies:** Git / GitHub, Python, etc.
+* **In Progress:** Frontend Development, Backend Development, Application Logic, Database Management
 
 ## 📈 My Progress & Projects (Learning & Real-world)
 
