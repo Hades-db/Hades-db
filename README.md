@@ -5,9 +5,7 @@
 I build visual interfaces, write functional code, set up n8n automations, and develop product-led projects. 
 **Building in public:** I am actively learning, consistently upgrading my stack, and immediately applying new knowledge to real-world use cases. I firmly believe that the best products are born at the intersection of technology and business logic.
 
----
 ## Things I use
----
 
 ## 🛠️ Domains & Tech Stack
 
