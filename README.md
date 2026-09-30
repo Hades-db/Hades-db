@@ -22,12 +22,7 @@ I build visual interfaces, write functional code, set up n8n automations, and de
 * **In Progress:** Frontend Development, Application Logic, Database Management
 * **Technologies:** Git / GitHub, Python, etc.
 
----
-
 ## 📈 My Progress & Projects (Learning & Real-world)
 
----
-
 ## 📫 Let's Connect!
-
 <p><a href="https://t.me/God_Hades_db" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
