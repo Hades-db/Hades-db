@@ -21,8 +21,10 @@ I build visual interfaces, write functional code, set up n8n automations, and de
 
 ## 📈 My Progress & Projects (Learning & Real-world)
 
-<div align="Center">
-  ## 📫 Let's Connect!
+<div align="center">
+  
+## 📫 Let's Connect!
+
 </div>
 
 <p align="center"><a href="https://t.me/God_Hades_db" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a></p>
