@@ -1,11 +1,19 @@
 # Hi there! I'm Hades 👋
 
+<div align="center">
+  
 ## 🎯 At the intersection of Design, Code, Automation, and Entrepreneurship
+
+</div>
 
 I build visual interfaces, write functional code, set up n8n automations, and develop product-led projects. 
 **Building in public:** I am actively learning, consistently upgrading my stack, and immediately applying new knowledge to real-world use cases. I firmly believe that the best products are born at the intersection of technology and business logic.
 
+<div align="center">
+  
 ## 🛠️ Domains & Tech Stack
+
+</div>
 
 ### 🚀 Business & Product
 * **Learning & Applying:** Product Analytics, CustDev, MVP Launch, No-Code Idea Validation
