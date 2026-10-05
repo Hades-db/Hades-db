@@ -19,8 +19,6 @@ I build visual interfaces, write functional code, set up n8n automations, and de
 ### 💻 Development
 * **In Progress:** Frontend Development, Backend Development, Application Logic, Database Management
 
-## 📈 My Progress & Projects (Learning & Real-world)
-
 <div align="center">
   
 ## 📫 Let's Connect!
